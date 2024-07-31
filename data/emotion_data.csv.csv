@@ -1,0 +1,7 @@
+
+text,audio_path,label
+"Happy text sample","audio_samples/happy.wav",0
+"Sad text sample","audio_samples/sad.wav",1
+"Angry text sample","audio_samples/angry.wav",2
+"Fearful text sample","audio_samples/fearful.wav",3
+"Neutral text sample","audio_samples/neutral.wav",4
